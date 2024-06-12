@@ -1,0 +1,15 @@
+.container p{
+background-color: yellow;
+color: red;
+text-align: center;
+font-size: 20px;
+}
+
+
+/* es lo mismo pero usando clases*/
+/* .container .text{
+background-color: yellow;
+color: red;
+text-align: center;
+font-size: 20px;
+} */
